@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Welcome to the Lions Den!
 description: Feel free to bookmark this to keep an eye on my project updates
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
